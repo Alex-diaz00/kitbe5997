@@ -7,5 +7,5 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'kitbe5997';
+  String get appTitle => 'kitbe_hakodesh_5997';
 }

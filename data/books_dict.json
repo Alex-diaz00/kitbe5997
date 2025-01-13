@@ -1,0 +1,286 @@
+{
+    "0": {
+        "name": "Bereshit",
+        "2nd_name": "Génesis"
+    },
+    "1": {
+        "name": "Shemot",
+        "2nd_name": "Éxodo"
+    },
+    "2": {
+        "name": "Vayikrá",
+        "2nd_name": "Levítico"
+    },
+    "3": {
+        "name": "Bemidbar",
+        "2nd_name": "Números"
+    },
+    "4": {
+        "name": "Devarim",
+        "2nd_name": "Deuteronomio"
+    },
+    "5": {
+        "name": "Janokj",
+        "2nd_name": "Enoc"
+    },
+    "6": {
+        "name": "Yashar",
+        "2nd_name": "Yasar/Yaser"
+    },
+    "7": {
+        "name": "Yahoshua",
+        "2nd_name": "Josué"
+    },
+    "8": {
+        "name": "Mashafa Kufale",
+        "2nd_name": "Jubileos"
+    },
+    "9": {
+        "name": "Shofetim",
+        "2nd_name": "Jueces"
+    },
+    "10": {
+        "name": "Shemuel Alef",
+        "2nd_name": "1a de Samuel"
+    },
+    "11": {
+        "name": "Shemuel Bet",
+        "2nd_name": "2a de Samuel"
+    },
+    "12": {
+        "name": "Melajim Alef",
+        "2nd_name": "1a de Reyes"
+    },
+    "13": {
+        "name": "Melajim Bet",
+        "2nd_name": "2a de Reyes"
+    },
+    "14": {
+        "name": "YeshaYah",
+        "2nd_name": "Isaías"
+    },
+    "15": {
+        "name": "YirmeYah",
+        "2nd_name": "Jeremías"
+    },
+    "16": {
+        "name": "Yejezquel",
+        "2nd_name": "Ezequiel"
+    },
+    "17": {
+        "name": "Hoshea",
+        "2nd_name": "Oseas"
+    },
+    "18": {
+        "name": "Yoel",
+        "2nd_name": "Joel"
+    },
+    "19": {
+        "name": "Amos",
+        "2nd_name": "Amós"
+    },
+    "20": {
+        "name": "OvadYah",
+        "2nd_name": "Abdías"
+    },
+    "21": {
+        "name": "Yoná",
+        "2nd_name": "Jonás"
+    },
+    "22": {
+        "name": "MikaYah",
+        "2nd_name": "Miquéas"
+    },
+    "23": {
+        "name": "Najum",
+        "2nd_name": "Nahum"
+    },
+    "24": {
+        "name": "Habakuk",
+        "2nd_name": "Habacuc"
+    },
+    "25": {
+        "name": "TzefanYah",
+        "2nd_name": "Sofonías"
+    },
+    "26": {
+        "name": "Haggay",
+        "2nd_name": "Hageo"
+    },
+    "27": {
+        "name": "ZekarYah",
+        "2nd_name": "Zacarías"
+    },
+    "28": {
+        "name": "Malakí",
+        "2nd_name": "Malaquías"
+    },
+    "29": {
+        "name": "Tehilim",
+        "2nd_name": "Salmos"
+    },
+    "30": {
+        "name": "Mishlé",
+        "2nd_name": "Proverbios"
+    },
+    "31": {
+        "name": "Iyob",
+        "2nd_name": "Job"
+    },
+    "32": {
+        "name": "Shir HaShirim",
+        "2nd_name": "Cantar de los Cantares"
+    },
+    "33": {
+        "name": "Rut",
+        "2nd_name": "Rut"
+    },
+    "34": {
+        "name": "Eykah",
+        "2nd_name": "Lamentaciones"
+    },
+    "35": {
+        "name": "Qohelet",
+        "2nd_name": "Eclesiastés"
+    },
+    "36": {
+        "name": "Hadassá",
+        "2nd_name": "Esther"
+    },
+    "37": {
+        "name": "Daniyel",
+        "2nd_name": "Daniel"
+    },
+    "38": {
+        "name": "Ezra",
+        "2nd_name": "Esdras"
+    },
+    "39": {
+        "name": "NejemYah",
+        "2nd_name": "Nehemías"
+    },
+    "40": {
+        "name": "Divrei HaYamim Alef",
+        "2nd_name": "1a de Crónicas"
+    },
+    "41": {
+        "name": "Divrei HaYamim Bet",
+        "2nd_name": "2a de Crónicas"
+    },
+    "42": {
+        "name": "MattiYah",
+        "2nd_name": "Mateo"
+    },
+    "43": {
+        "name": "Mardokhay",
+        "2nd_name": "Marcos"
+    },
+    "44": {
+        "name": "Silvano",
+        "2nd_name": "Silvano/Silas"
+    },
+    "45": {
+        "name": "Yohanán",
+        "2nd_name": "Juan"
+    },
+    "46": {
+        "name": "Tomá",
+        "2nd_name": "Tomás"
+    },
+    "47": {
+        "name": "Maasher Shalujim",
+        "2nd_name": "Hechos de los Apóstoles"
+    },
+    "48": {
+        "name": "Romaniyim",
+        "2nd_name": "Romanos"
+    },
+    "49": {
+        "name": "Qorintiyim Alef",
+        "2nd_name": "1a de Corintios"
+    },
+    "50": {
+        "name": "Qorintiyim Bet",
+        "2nd_name": "2a de Corintios"
+    },
+    "51": {
+        "name": "Galatiyim",
+        "2nd_name": "Galatas"
+    },
+    "52": {
+        "name": "Efesiyim",
+        "2nd_name": "Efesios"
+    },
+    "53": {
+        "name": "Filipiyim",
+        "2nd_name": "Filipenses"
+    },
+    "54": {
+        "name": "Qolosiyim",
+        "2nd_name": "Colosenses"
+    },
+    "55": {
+        "name": "Tesaloniyim Alef",
+        "2nd_name": "1a de Tesalonicenses"
+    },
+    "56": {
+        "name": "Tesaloniyim Bet",
+        "2nd_name": "2a de Tesalonicenses"
+    },
+    "57": {
+        "name": "Timotios Alef",
+        "2nd_name": "1a de Timoteo"
+    },
+    "58": {
+        "name": "Timotios Bet",
+        "2nd_name": "2a de Timoteo"
+    },
+    "59": {
+        "name": "Titos",
+        "2nd_name": "Tito"
+    },
+    "60": {
+        "name": "Filimon",
+        "2nd_name": "Filemón"
+    },
+    "61": {
+        "name": "Ivrim",
+        "2nd_name": "Hebreos"
+    },
+    "62": {
+        "name": "Clemente",
+        "2nd_name": "Clemente"
+    },
+    "63": {
+        "name": "Yaakov",
+        "2nd_name": "Santiago"
+    },
+    "64": {
+        "name": "Kefá Alef",
+        "2nd_name": "1a de Pedro"
+    },
+    "65": {
+        "name": "Kefá Bet",
+        "2nd_name": "2a de Pedro"
+    },
+    "66": {
+        "name": "Yohanán Alef",
+        "2nd_name": "1a de Juan"
+    },
+    "67": {
+        "name": "Yohanán Bet",
+        "2nd_name": "2a de Juan"
+    },
+    "68": {
+        "name": "Yohanán Guimel",
+        "2nd_name": "3a de Juan"
+    },
+    "69": {
+        "name": "Yahudá",
+        "2nd_name": "Judá"
+    },
+    "70": {
+        "name": "Gitgalut",
+        "2nd_name": "Apocalipsis"
+    }
+}

@@ -96,7 +96,7 @@ abstract class AppLocalizations {
   /// The title of the application
   ///
   /// In en, this message translates to:
-  /// **'kitbe5997'**
+  /// **'kitbe_hakodesh_5997'**
   String get appTitle;
 }
 
